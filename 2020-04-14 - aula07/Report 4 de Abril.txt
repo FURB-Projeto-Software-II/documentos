@@ -1,0 +1,9 @@
+Gustavo e Bruno
+
+- Criaram os apps e definiram as telas, realizando um mapa mental das mesmas
+- Discutiram com a equipe as telas e a modelagem do servidor e banco de dados
+- Gustavo postou o app do storage no git para o Bruno se basear na estrutura definida pelos dois
+
+Diogo e José
+- Revisaram os CRUDs
+- Criacao CRUD referente as encomendas
