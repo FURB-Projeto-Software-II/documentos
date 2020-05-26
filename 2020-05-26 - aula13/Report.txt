@@ -5,8 +5,9 @@ Diogo
 	- 
 
 Gustavo
-	- Reunão sobre regra de negocios e endpoints
+	- Reunião sobre regra de negocios e endpoints
  	- Realizada tela de crud de storage
-  - Configurada api apontando para novas endpoints
+  	- Configurada api apontando para novas endpoints
 José:
-	- 
+	- Definição de regra de negócio a respeito das entregas
+	- Estudo sobre geração de QRCode
