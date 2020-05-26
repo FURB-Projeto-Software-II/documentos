@@ -1,0 +1,11 @@
+Bruno:
+  - Ajustes bugs do front das telas criadas.
+  - Inicio da ligação do backend com o front end.
+
+Diogo:
+	- Disponibilizei o servidor backend no heroku
+
+Gustavo:
+	- Testei o servidor no heroku, realizei configurações de telas no app
+José: 
+	 - Corrigiu um bug do app e implementou a solicitação da localização do usuário.
