@@ -1,0 +1,11 @@
+Bruno:
+  - Avaliação
+
+Diogo:
+  - Avaliação
+
+Gustavo:
+  - Avaliação e conversa com a equipe para definições de regras de negocio
+  
+José:
+  - Avaliação
