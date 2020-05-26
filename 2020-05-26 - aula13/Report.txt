@@ -2,7 +2,8 @@ Bruno
   - 
 
 Diogo
-	- 
+	- Criação de rota de confirmar entrega
+	- Adição do readme
 
 Gustavo
 	- Reunião sobre regra de negocios e endpoints
