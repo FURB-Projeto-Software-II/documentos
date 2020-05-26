@@ -1,0 +1,12 @@
+Bruno
+  - 
+
+Diogo
+	- 
+
+Gustavo
+	- Reunão sobre regra de negocios e endpoints
+ 	- Realizada tela de crud de storage
+  - Configurada api apontando para novas endpoints
+José:
+	- 
