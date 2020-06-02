@@ -1,5 +1,5 @@
 Bruno
-  - 
+  - Feita a conexão de mais alguns endpoinst ao app.
 
 Diogo
 	- Criação de rota de confirmar entrega
