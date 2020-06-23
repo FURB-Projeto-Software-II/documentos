@@ -1,0 +1,2 @@
+Bruno
+  - Ajuste bug do select e das rotas
