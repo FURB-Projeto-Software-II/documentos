@@ -1,2 +1,5 @@
 Bruno
   -  Realizado implementação do QRCode do app client
+
+José
+  - Cálculo do preço das encomendas
