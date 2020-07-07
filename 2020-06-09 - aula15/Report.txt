@@ -4,6 +4,6 @@ Gustavo
   - Correções de bugs gerais.
 
 José
-  - Correçãode de bugs
+  - Correção de bugs
 Diogo
   - Adição das novas rotas de busca das ordens
