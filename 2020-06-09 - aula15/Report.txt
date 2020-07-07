@@ -5,3 +5,5 @@ Gustavo
 
 José
   - Correçãode de bugs
+Diogo
+  - Adição das novas rotas de busca das ordens
