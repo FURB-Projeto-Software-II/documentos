@@ -1,5 +1,6 @@
 Bruno
   - Ajuste bug do select e das rotas
-
+Gustavo
+  - Avaliação e discussão de alguns pontos sobre regras de negocios
 José
   - Avaliação
