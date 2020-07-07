@@ -1,6 +1,9 @@
 Bruno
   -  Realizado implementação do QRCode do app client
 
+Gustavo
+  - Criação das rotas de entrega do pedido. E algumas correções. Solicitações feitas ao banckend.
+
 José
   - Cálculo do preço das encomendas
 
