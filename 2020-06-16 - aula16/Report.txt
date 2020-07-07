@@ -3,3 +3,6 @@ Bruno
 
 José
   - Cálculo do preço das encomendas
+
+Diogo
+  - Correções de bugs
