@@ -1,5 +1,7 @@
 Bruno
   - Linkado backend dos ultimos pedidos feitos na tela home.
+Gustavo
+  - Correções de bugs gerais.
 
 José
   - Correçãode de bugs
